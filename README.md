@@ -1,2 +1,5 @@
 # Census_WFH
-Python script that will retreive, clean, do calculations on, and export data from the US census
+- Requesting data from census.gov
+- Cleaning, combining and reorganizing the data
+- Inserting some calculations
+- Exporting to Excel
